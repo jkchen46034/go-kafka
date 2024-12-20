@@ -9,7 +9,8 @@
 ```
 
 ## Consumer
-```~/dev/go-kafka/client$ go run main.go
+```
+~/dev/go-kafka/client$ go run main.go
 Worker started
 Receiver temperature, count 1: | topic (temperature), message ({"timestamp":100,"degree":-12}) 
 Receiver temperature, count 2: | topic (temperature), message ({"timestamp":101,"degree":-13}) 
